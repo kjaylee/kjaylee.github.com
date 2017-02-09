@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/s/i7su0288sexh6u5/HMS_Seoul.ipa</string>
+					<string>https://kjaylee.github.io/ota/HMS_Seoul20170210/HMS_Seoul.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/s/2qpadrby4kxhvbr/Icon.png</string>
+					<string>https://kjaylee.github.io/ota/Icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/s/qlqwi97rr985o7d/iTunesArtwork.png</string>
+					<string>https://kjaylee.github.io/ota/iTunesArtwork.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
